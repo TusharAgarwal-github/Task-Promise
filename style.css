@@ -1,0 +1,25 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+.countriesInfo {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding-left: 13px !important;
+	padding-top: 13px !important;
+}
+
+.card {
+	width: 18rem;
+	margin: 5px 0;
+}
+.card-title {
+	text-align: left;
+}
+.card-contents {
+	text-align: left;
+}
